@@ -117,36 +117,10 @@ for i in range(0, 250):
     list_animaux.append(fichier.readline().rstrip())
 
 #test_choix1 = Generation("titi", "3fbc7080bf8e718d4e8edd2eb596d3a7")
-#test_choix1.choix1()
-
 #test_choix2 = Generation("tito", "6b42d00c4ca6ddc33a604c54b8ce4adc")
-#test_choix2.choix2()
-
 #test_choix3 = Generation("tata", "d31259e2b584d457fa45c2c7bb58f89d")
-#test_choix3.choix3()
-
 #test_choix4 = Generation("tutu", "16b620e2a95347ef8f3030e52900e8c5")
-#test_choix4.choix4()
-
 #test_choix5 = Generation("tyty" , "d4488ccf0e5f906d1c55ad35379eaf4c")
-#test_choix5.choix5()
-
 #test_choix6 = Generation("tatu", "22b1235b36d51ff7a96527cbb9cdf2b7")
-#test_choix6.choix6()
-
 #test_choix7 = Generation("tota", "3eeca09a177fb06bf02e3291e72bdfe5")
-#test_choix7.choix7()
-
 #test_choix8 = Generation("tuti", "a7d349a1dab3727b7442ed4de450e091")
-#test_choix8.choix8()
-
-#tata:d31259e2b584d457fa45c2c7bb58f89d = choix 3 = TaTa
-#tete:c8b2876ef38985c1af89530dd1dda717 = choix 8 = tete0123
-#titi:3fbc7080bf8e718d4e8edd2eb596d3a7 = choix 1 = Xtiti1995
-#toto:48e7fd1957261b740df9188b851b8149 = choix 4 = Faucon30
-#tutu:16b620e2a95347ef8f3030e52900e8c5 = choix 4 = 123pandas
-#tyty:d4488ccf0e5f906d1c55ad35379eaf4c = choix 5 = S8NGL88R
-#tatu:22b1235b36d51ff7a96527cbb9cdf2b7 = choix 6 = dranacdranac
-#tota:3eeca09a177fb06bf02e3291e72bdfe5 = choix 7 = morsetigre
-#tuti:a7d349a1dab3727b7442ed4de450e091 = choix 8 = Tuti1234
-#tito:6b42d00c4ca6ddc33a604c54b8ce4adc = choix 2 = lion
