@@ -5,4 +5,4 @@ choix4 = tutu, 16b620e2a95347ef8f3030e52900e8c5
 choix5 = tyty , d4488ccf0e5f906d1c55ad35379eaf4c
 choix6 = tatu, 22b1235b36d51ff7a96527cbb9cdf2b7
 choix7 = tota, 3eeca09a177fb06bf02e3291e72bdfe5
-choix8 = tuti, a7d349a1dab3727b7442ed4de450e091
+
