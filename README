@@ -1,4 +1,4 @@
-# JohnTheReaper
+# JohnTheRipper
 
 main.py : Creer l'interface graphique. 
 interface.py : Contient la classe qui permet de créer l'interface graphique.
